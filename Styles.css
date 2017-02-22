@@ -1,0 +1,255 @@
+.nav{
+    position: relative;
+    top: 9px;
+    padding: 9px 0px 50px 0px;
+    background-color: #e682ed;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+
+.nav ul,li,a {
+    display: inline;
+    padding-left: 10px;
+    text-decoration: none;
+    color: black;
+    float: left;
+}
+
+.jumbo{
+    position: relative;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    top: -9px;
+    text-align: center;
+    background-color: #ff7ad2;
+    text-shadow: 20px;
+    margin-left: 140px;
+    margin-right: 140px;
+    margin-top: 70px;
+    font-size: 35px;
+    font-family: fantasy;
+    
+}
+
+.hjem h2,p{
+    position: relative;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+
+.hjem h2{
+    margin-bottom: 50px;
+}
+
+.jumbo2{
+        position: relative;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    top: -9px;
+    text-align: center;
+    background-color: #ff7ad2;
+    text-shadow: 20px;
+    margin-left: 140px;
+    margin-right: 140px;
+    margin-top: 70px;
+    font-size: 30;
+    font-family: fantasy;
+}
+
+
+
+.man{
+    position: relative;
+    background-color: #f3bcff;
+    text-align: center;
+    padding-top: 70px;
+    padding-bottom: 70px;
+    padding-left: 100px;
+    padding-right: 100px;
+    margin-left: 400px;
+    margin-right: 400px;
+    margin-top: 200px;
+    font-family: serif;
+    font-size: 40px;
+}
+
+.tir{
+    position: relative;
+    background-color: #f3bcff;
+    text-align: center;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    padding-left: 100px;
+    padding-right: 100px;
+    margin-left: 400px;
+    margin-right: 400px;
+    margin-top: 200px;
+    font-family: serif;
+    font-size: 40px;
+}
+
+.ons{
+    position: relative;
+    background-color: #f3bcff;
+    text-align: center;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    padding-left: 100px;
+    padding-right: 100px;
+    margin-left: 400px;
+    margin-right: 400px;
+    margin-top: 200px;
+    font-family: serif;
+    font-size: 40px;
+}
+
+.tor{
+    position: relative;
+    background-color: #f3bcff;
+    text-align: center;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    padding-left: 100px;
+    padding-right: 100px;
+    margin-left: 400px;
+    margin-right: 400px;
+    margin-top: 200px;
+    font-family: serif;
+    font-size: 40px;
+}
+
+.fre{
+    position: relative;
+    background-color: #f3bcff;
+    text-align: center;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    padding-left: 100px;
+    padding-right: 100px;
+    margin-left: 400px;
+    margin-right: 400px;
+    margin-top: 200px;
+    font-family: serif;
+    font-size: 40px;
+}
+
+.lør{
+    position: relative;
+    background-color: #f3bcff;
+    text-align: center;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    padding-left: 100px;
+    padding-right: 100px;
+    margin-left: 400px;
+    margin-right: 400px;
+    margin-top: 200px;
+    font-family: serif;
+    font-size: 40px;
+}
+
+.søn{
+    position: relative;
+    background-color: #f3bcff;
+    text-align: center;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    padding-left: 100px;
+    padding-right: 100px;
+    margin-left: 400px;
+    margin-right: 400px;
+    margin-top: 200px;
+    margin-bottom: 10px;
+    font-family: serif;
+    font-size: 40px;
+    
+    
+}
+
+
+
+
+.man h3{
+    font-family: sans-serif;
+    text-align: left;
+}
+
+.man img{
+    text-align: left;
+}
+
+}
+
+.tir h3{
+    font-family: sans-serif;
+    text-align: left;
+}
+
+.tir img{
+    text-align: left;
+}
+
+.ons h3{
+    font-family: sans-serif;
+    text-align: left;
+}
+
+.ons img{
+    text-align: left;
+}
+
+
+.tor h3{
+    font-family: sans-serif;
+    text-align: left;
+}
+
+.tor img{
+    text-align: left;
+}
+
+.fre h3{
+    font-family: sans-serif;
+    text-align: left;
+}
+
+.fre img{
+    text-align: left;
+}
+
+.lør h3{
+    font-family: sans-serif;
+    text-align: left;
+}
+
+.lør img{
+    text-align: left;
+}
+
+.søn h3{
+    font-family: sans-serif;
+    text-align: left;
+}
+
+.søn img{
+    text-align: left;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
